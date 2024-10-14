@@ -1,6 +1,6 @@
 {
     "name": "droplicense",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Drops a license template in the current directory.",
     "license": "MIT",
     "keywords": [
@@ -22,7 +22,8 @@
     },
     "scripts": {
         "compile": "tsc",
-        "testrun": "cls && tsc && node ./bin/index.js"
+        "testrun": "cls && tsc && node ./bin/index.js",
+        "publish": "npm publish"
     },
     "engines": {
         "node": ">=18.0.0"
