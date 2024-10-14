@@ -13,6 +13,9 @@
         "email": "futuremotionrecovery@gmail.com",
         "url": "https://github.com/futuremotiondev"
     },
+    "repository": {
+        "url": "https://github.com/futuremotiondev/droplicense"
+    },
     "main": "bin/index.js",
     "bin": {
         "droplicense": "./bin/index.js"
