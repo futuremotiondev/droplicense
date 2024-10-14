@@ -14,11 +14,11 @@
         "url": "https://github.com/futuremotiondev"
     },
     "repository": {
-        "url": "https://github.com/futuremotiondev/droplicense"
+        "url": "git+https://github.com/futuremotiondev/droplicense.git"
     },
     "main": "bin/index.js",
     "bin": {
-        "droplicense": "./bin/index.js"
+        "droplicense": "bin/index.js"
     },
     "scripts": {
         "compile": "tsc",
