@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "esnext",
+        "allowUnreachableCode": false,
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "strict": true,
+        "sourceMap": true,
+        "outDir": "./bin",
+        "target": "ES2022",
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "types": ["node"]
+    },
+    "include": ["index.ts"],
+    "exclude": ["node_modules"]
+}
