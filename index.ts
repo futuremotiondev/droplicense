@@ -17,7 +17,7 @@ let loading = new Spinner('%s generating license')
 loading.setSpinnerString('⣾⣽⣻⢿⡿⣟⣯⣷')
 loading.setSpinnerDelay(100)
 
-clearScreen
+process.stdout.write('\x1Bc')
 
 class LicenseClass {
     licenseSelection: string = '';

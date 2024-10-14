@@ -1,8 +1,8 @@
-# droplicense CLI
-
-> CLI application for generating common licenses from the command line.
-
-
+# droplicense
+&nbsp;
+> A Node.js CLI application for generating common licenses from the command line.
+>
+&nbsp;
 
 ## Installation
 
@@ -15,6 +15,18 @@ $ npm install -g droplicense
 ```
 $ droplicense
 ```
+
+&nbsp;
+
+![droplicense1](./img/droplicense-cli-1.png)
+
+---
+
+![droplicense1](./img/droplicense-cli-2.png)
+
+
+
+
 
 ## Licenses included
 
