@@ -1,6 +1,6 @@
 {
     "name": "droplicense",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Drops a license template in the current directory.",
     "license": "MIT",
     "keywords": [
