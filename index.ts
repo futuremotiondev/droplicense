@@ -5,7 +5,6 @@ import * as path from 'path';
 import { createRequire } from 'module';
 import fetch from 'node-fetch'
 import * as fs from 'fs';
-import { clearScreen } from 'ansi-escapes';
 
 const require = createRequire(import.meta.url)
 const userName = require('git-user-name');
