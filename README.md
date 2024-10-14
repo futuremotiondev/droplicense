@@ -1,7 +1,9 @@
 # droplicense
 &nbsp;
 > A Node.js CLI application for generating common licenses from the command line.
->
+
+https://www.npmjs.com/package/droplicense
+
 &nbsp;
 
 ## Installation
